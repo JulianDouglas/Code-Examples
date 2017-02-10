@@ -1,0 +1,10 @@
+This Folder contains two projects. One project contains work completed for an 'Advanced Graphic Programming' class.
+This class covered topics such as textures, materials, lighting, and the like using the OpenGl framework. Included in the first folder
+are a couple individual assignments as well as the final project for the class. The requirements of these projects had us write
+the project code in a single file (which drove the entire class crazy).
+
+The second folder contains my current in progress project which when finished will be a custom shader compiler. The goal for this project
+is to create a personal tool for shader production and compilation. It is in it's earliest stages of development, but I hope to finish
+it soon.
+
+-Jack
